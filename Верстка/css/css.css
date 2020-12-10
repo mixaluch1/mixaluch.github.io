@@ -1,0 +1,120 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline:none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+	input,button,textarea{font-family:inherit;}
+	
+	input::-ms-clear{display: none;}
+	button{cursor:pointer;}
+	button::-moz-focus-inner{padding:0;border:0;}
+	a, a:visited{text-decoration:none;}
+	a:hover{text-decoration: none;}
+	ul li{list-style: none;}
+	img{vertical-align: top;}
+	
+	h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+	
+html{
+	background-image: url(../image/Фон.jpg);
+	background-repeat: no-repeat;
+	background-position: 43% 10%;	
+}
+.logo{
+	margin-left: 180px;
+	margin-top: 50px;
+	font-size: 35px;
+}
+.v1{
+	border-left: 1px solid black;
+    height: 69px;
+    position: absolute;
+    left: 26%;
+    margin-left: -3px;
+    top: 35px;
+}
+.lorem{
+	margin-left: 340px;
+	margin-top: -40px;
+	font-size: 20px;
+	color: #FF8C00;
+}
+.do{
+	margin-left: 340px;
+	margin-top: 18px;
+}
+.v2{
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #696969;
+	width: 950px;
+	margin-left:125px;
+	margin-top: 80px;
+}
+.v3{
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #696969;
+	width: 950px;
+	margin-left:125px;
+	margin-top: 40px;
+}
+.sss{
+	color: #000000;
+	margin-left: 100px;
+}
+.menu{
+	margin-left: 100px;
+	margin-top: -47px;
+}
+
+
+.shapka{
+	margin-left: 150px;
+}	
+.v4{
+	border-left: 1px solid black;
+    height: 69px;
+    position: absolute;
+    left: 71%;
+    margin-left: -3px;
+    top: 35px;
+}
+.ggg{
+	margin-left: 330px;
+	margin-top: 200px;
+	font-size: 40px;
+}
+.aqq{
+	margin-top: 50px;
+	margin-left: 550px;
+	font-size: 30px;
+	color: red;
+}
+.ven{
+	margin-left: 500px;
+}
